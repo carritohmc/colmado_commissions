@@ -1,0 +1,14 @@
+.catalog{
+background-color: beige;
+padding-top: 15px;
+display: flex;
+
+
+}
+
+.catalog h3 {
+
+    text-align: center;
+    color: olivedrab;
+
+}

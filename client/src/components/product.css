@@ -1,0 +1,19 @@
+.product h1{
+
+    color: rgb(75, 2, 75);
+    font-weight: bold;
+    font-size: medium;
+
+}
+
+.product img{
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.product{
+
+    border: 1px solid purple;
+    border-radius: 8px ;
+    margin: 8px;
+}
